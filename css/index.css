@@ -199,9 +199,12 @@ margin: 5px;
 #box-10{
     background: blue;
 }
- section{
+ .first-sec {
      display: flex;
      /* padding: 20px; */
+ }
+ .second-sec{
+     display: flex;
  }
  button{
      padding: 10px;
