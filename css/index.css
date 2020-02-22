@@ -201,6 +201,23 @@ margin: 5px;
 }
  section{
      display: flex;
+     /* padding: 20px; */
  }
+ button{
+     padding: 10px;
+     margin-top: 10px;
+     
+ }
+ .sec-div{
+     padding: 20px 0;
+     margin: auto;
+ }
+ .first-img{
+     width: 780px;
+ }
+ .last-div{
+     margin-bottom: 20px;
+ }
+
 
 
