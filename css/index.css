@@ -199,3 +199,8 @@ margin: 5px;
 #box-10{
     background: blue;
 }
+ section{
+     display: flex;
+ }
+
+
